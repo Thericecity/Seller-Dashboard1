@@ -1,20 +1,23 @@
 .logincontain{
-    height: 53vh;
-    width: 32%;
+    height: 55vh;
+    width: 35%;
     margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin-top: 50px;
-    background-color: rgb(222, 199, 243);
+  background-color: rgb(175, 97, 243);
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
 .emaildiv{
     height: 55vh;
 
-
 }
 .emaildiv h2{
-    font-size: 30px;
+    font-size: 32px;
     width: 50%;
     margin: auto;
+    font-weight: 600;
+    color: white;
     padding-top: 15px;
 
 
@@ -47,28 +50,31 @@
 
 .emailhead{
     width: 5vw;
-    margin-left:14%;
+    margin-left:19%;
 }
 .emailhead p{
-    font-size: 18px;
+    font-size: 24px;
+    color: white;
+    font-weight: 600;
 }
 .passhead{
     width: 5vw;
-    margin-left:18%;
+    margin-left:20%;
 }
 .passhead p{
-    font-size: 18px;
-
+    font-size: 24px;
+    color: white;
+    font-weight: 600;
 }
 
 .submit input{
     border: none;
     width: 20.5vw;
     height: 5.9vh;
-    margin-top: 20px;
+    margin-top: 30px;
     font-size: 21px;
     border-radius: 5px;
-    background-color: rgb(140, 71, 183);
+    background-color: rgb(61, 23, 62);
     color: white;
 }
 

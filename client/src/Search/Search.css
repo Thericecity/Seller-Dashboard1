@@ -1,12 +1,12 @@
 .search > form {
   width: 40%;
   display: flex;
-  padding: 1.8rem;
+  padding: 1.3rem;
   margin: auto;
 }
 .search {
   display: flex;
-  background-color: rgb(157, 204, 227);
+  background-color: rgb(81, 81, 82);
   justify-content: space-around;
 }
 .search > form > input {

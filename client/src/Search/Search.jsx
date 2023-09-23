@@ -53,7 +53,7 @@ export default function Search({ text, setText, handleSearch }) {
             <FaRegUser
               style={{
                 fontSize: "32px",
-                color: "#797979",
+                color: "#A9A6A6",
                 marginTop: "28px",
                 marginLeft: "-930%",
                 border: "0px solid red",
